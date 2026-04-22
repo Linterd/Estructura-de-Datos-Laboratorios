@@ -1,4 +1,4 @@
-Laboratorio 0: primeras nociones de TAD Lista
+# Laboratorio 0: primeras nociones de TAD Lista
 objetivos:
     1. Explicar qué es un TAD.
     2. Diferenciar entre abstracción e implementación.
